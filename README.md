@@ -2,7 +2,7 @@
 - 👀 I’m interested in web3\dapp\blockchain
 - 🌱 I’m currently learning Drawing
 - 💞️ I’m looking to collaborate on web3\dapp\blockchain
-- 📫 How to reach me  📧:xq310723@gmail.com
+- 📫 How to reach me  📧
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuhugo&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuHugo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
